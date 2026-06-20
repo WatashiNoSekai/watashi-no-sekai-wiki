@@ -138,13 +138,13 @@ inc_after_meta :
 inc_before_scripts : 
 inc_after_scripts : 
 inc_before_styles : 
-inc_after_styles : loadstyle.html
+inc_after_styles : 
 inc_before_header : 
 inc_after_header : 
 inc_before_tail : 
 inc_after_tail : 
 inc_before_tools : 
-inc_after_tools : 
+inc_after_tools : loadstyle.html
 
 inc_before_page_list :
 inc_after_page_list : sidebar.html

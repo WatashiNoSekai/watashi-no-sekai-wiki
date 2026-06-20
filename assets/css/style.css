@@ -1,6 +1,15 @@
+/* From testing, body only affects font. Background color is done below. */
 body {
-    background-color: #aae5a4;
     font-family: "Trebuchet MS";
-    font-size: 50px;
-    color: blueviolet;
+}
+
+.darkmode-background {
+    background: #aae5a4;
+    position: fixed;
+    pointer-events: none;
+    z-index: -10;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
 }
