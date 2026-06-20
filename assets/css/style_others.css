@@ -1,0 +1,9 @@
+/* Sidebar Color */
+.w3-sidebar {
+    background-color: #ff6600;
+    height: 100%;
+    width: 200px;
+    position: fixed !important;
+    z-index: 1;
+    overflow: auto
+}
