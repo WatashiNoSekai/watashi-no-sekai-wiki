@@ -3,6 +3,7 @@ body {
     font-family: "Trebuchet MS";
 }
 
+/* Background color has to be set here */
 .darkmode-background {
     background: #aae5a4;
     position: fixed;
@@ -12,4 +13,31 @@ body {
     height: 100%;
     top: 0;
     left: 0;
+}
+
+/* Sidebar Color */
+.w3-sidebar {
+    background-color: #ff6600;
+    height: 100%;
+    width: 200px;
+    position: fixed !important;
+    z-index: 1;
+    overflow: auto
+}
+
+/* The code below basically removes dark mode entirely. */
+
+/* Hide dark mode toggle */
+.darkmode-toggle {
+    display: none;
+}
+
+/* Remove dark mode layer */
+.darkmode-layer {
+    display: none;
+}
+
+/* Make dark mode images normal */
+body.darkmode--activated img,body.darkmode--activated .darkmode-ignore {
+    mix-blend-mode: normal;
 }

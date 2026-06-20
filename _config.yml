@@ -140,11 +140,13 @@ inc_after_scripts :
 inc_before_styles : 
 inc_after_styles : 
 inc_before_header : 
-inc_after_header : 
+# loadstyle.html is here instead of inc_after_styles because 
+# background color is overriden when it's placed in after styles
+inc_after_header : loadstyle.html 
 inc_before_tail : 
 inc_after_tail : 
 inc_before_tools : 
-inc_after_tools : loadstyle.html
+inc_after_tools : 
 
 inc_before_page_list :
 inc_after_page_list : sidebar.html
