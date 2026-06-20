@@ -5,7 +5,7 @@ body {
 
 /* Background color has to be set here */
 .darkmode-background {
-    background: #aae5a4;
+    background: #ffffff;
     position: fixed;
     pointer-events: none;
     z-index: -10;
