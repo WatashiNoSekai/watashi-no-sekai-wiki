@@ -1,7 +1,6 @@
 /* From testing, body only affects font. Background color is done below. */
-body {
-    font-family: "Trebuchet MS";
-}
+/* use body tag to change font */
+/* body {} */
 
 /* Sidebar Color */
 .w3-sidebar {
