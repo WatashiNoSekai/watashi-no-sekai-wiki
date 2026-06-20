@@ -1,11 +1,6 @@
-/* From testing, body only affects font. Background color is done below. */
-body {
-    font-family: "Trebuchet MS";
-}
-
 /* Background color has to be set here */
 .darkmode-background {
-    background: #881144;
+    background: white;
     position: fixed;
     pointer-events: none;
     z-index: -10;

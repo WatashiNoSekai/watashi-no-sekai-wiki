@@ -1,6 +1,11 @@
+/* From testing, body only affects font. Background color is done below. */
+body {
+    font-family: "Trebuchet MS";
+}
+
 /* Sidebar Color */
 .w3-sidebar {
-    background-color: #881144;
+    background-color: white;
     height: 100%;
     width: 200px;
     position: fixed !important;
