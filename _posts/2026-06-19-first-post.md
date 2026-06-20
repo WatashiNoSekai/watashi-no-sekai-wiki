@@ -1,0 +1,7 @@
+---
+published: true
+---
+
+## New Wiki!
+
+This is the first post of the Watashi no Sekai Wiki! Yay!!!
