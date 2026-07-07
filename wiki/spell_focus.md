@@ -1,18 +1,27 @@
-## Focus
+### Overview
+---
 
-**Focus** is a support spell that provides mana to the user.
+<p align="center">
+Spell Shape
+<br>
+<img src="../assets/spell_previews/focus.png" />
+</p> 
+
+|Stats||
+|---|---|
+| Mana Gain | 50 Mana or 50 Max Mana |
+| Cooldown | 10 Seconds |
+| Spell Card Allowed | No |
 
 ### Usage
 ---
 
-The Focus spell is drawn with an M with a circle around it.
-
-This spell costs zero mana to cast; however it has a ten second cooldown. 
+The Focus spell costs zero mana to cast; however it has a ten second cooldown. 
 
 This spell grants the user mana based on the following conditions:
 * If the user is at their maximum capacity of mana, their mana capacity will increase by 50. This is called "Limit Breaking".
 * Otherwise, their mana will be increased by 50. 
-  - If adding 50 goes over their capacity, their mana amount will not overflow and will instead be set to their current max capacity.
+  - If adding 50 would go over their capacity, their mana amount will not overflow and will instead be set to their current max capacity.
 
 The most amount of mana a user can have is 500. Once this amount is reached, the maximum mana capacity cannot be increased.
 
