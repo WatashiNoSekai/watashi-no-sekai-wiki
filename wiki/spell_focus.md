@@ -4,7 +4,7 @@
 <p align="center">
 Spell Shape
 <br>
-<img src="../assets/spell_previews/focus.png" />
+<img src="/assets/spell-preview_focus.png" />
 </p> 
 
 |Stats||

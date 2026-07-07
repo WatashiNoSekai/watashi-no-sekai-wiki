@@ -4,7 +4,7 @@
 <p align="center">
 Spell Shape
 <br>
-<img src="../assets/spell_previews/recover.png" />
+<img src="/assets/spell-preview_recover.png" />
 </p> 
 
 |Stats||

@@ -4,7 +4,7 @@
 <p align="center">
 Spell Shape
 <br>
-<img src="../assets/spell_previews/zoltraak.png" />
+<img src="/assets/spell-preview_zoltraak.png" />
 </p> 
 
 |Stats||

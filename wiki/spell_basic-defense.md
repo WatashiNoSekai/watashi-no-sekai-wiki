@@ -4,7 +4,7 @@
 <p align="center">
 Spell Shape
 <br>
-<img src="../assets/spell_previews/basic-defense.png" />
+<img src="/assets/spell-preview_basic-defense.png" />
 </p> 
 
 |Stats||
