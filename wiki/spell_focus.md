@@ -4,7 +4,7 @@
 <p align="center">
 Spell Shape
 <br>
-<img src="/assets/spell-preview_focus.png" />
+<img src="/watashi-no-sekai-wiki/assets/spell-preview_focus.png" />
 </p> 
 
 |Stats||
