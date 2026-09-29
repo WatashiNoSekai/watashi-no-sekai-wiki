@@ -18,4 +18,6 @@ Spell Shape
 ### Usage
 ---
 
-The Recover spell rapidly heals the user at the cost of mana.
+Rapidly heals the user at the cost of mana.
+
+Taking damage while this spell is active will drain 15 mana from the user.
