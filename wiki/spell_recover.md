@@ -13,7 +13,7 @@ Spell Shape
 |---|---|
 | Health Gain |1 HP/0.1 Seconds  |
 | Mana Cost | 1 Mana/0.1 Seconds |
-| Spell Card Allowed | Yes (5 Second Cooldown) |
+| Spell Card Allowed | Yes (2.5 Second Cooldown) |
 
 ### Usage
 ---

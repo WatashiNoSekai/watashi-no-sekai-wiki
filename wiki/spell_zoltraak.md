@@ -17,7 +17,7 @@ Spell Shape
 | Arm Multiplier | 1x |
 | Leg Multiplier | 0.5x |
 | Fire Rate | 0.5 |
-| Mana Cost | 20 |
+| Mana Cost | 15 |
 | Spell Card Allowed | Yes (1 Second Cooldown) |
 
 ### Usage

@@ -17,4 +17,6 @@ Spell Shape
 ### Usage
 ---
 
-The Basic Defense spell casts a barrier around the user, capable of stopping most attacks.
+Casts a barrier around the user, capable of stopping most attacks.
+
+While this spell is cast, falling does not apply ragdoll and fall damage is reduced by 25%.

@@ -13,3 +13,5 @@ This page is a list of all spells in the game.
 * [Focus](spell_focus.md)
 * [Flight](spell_flight.md)
 * [Recover](spell_recover.md)
+* [Swap](spell_swap.md)
+* [Teleport](spell_teleport.md)
